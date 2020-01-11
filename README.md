@@ -4,7 +4,7 @@ The application is an Odia letter handwriting practice app. It will be helpful f
 
 ### Application Demo
 
-<img src="/release/app-screenshot/alphabet.gif" width="450" height="450" />
+[![Odia Alphabet (Version 1.0)](https://img.youtube.com/vi/IZtcetrBmAI/0.jpg)](https://www.youtube.com/watch?v=IZtcetrBmAI)
 
 ### Alphabets
 
