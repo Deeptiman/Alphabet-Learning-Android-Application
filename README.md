@@ -19,4 +19,4 @@ The application is an Odia letter handwriting practice app. It will be helpful f
 <img src="/release/app-screenshot/user_drawing.png" width="350"  height="450" />
 
 ### Odia Script Wiki
-[https://en.wikipedia.org/wiki/Odia_script] (https://en.wikipedia.org/wiki/Odia_script)
+https://en.wikipedia.org/wiki/Odia_script
