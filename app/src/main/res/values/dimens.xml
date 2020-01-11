@@ -1,0 +1,170 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_margin">0dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+
+    <integer name="splash_screen_txt_size_hdpi">500</integer>
+    <integer name="splash_screen_txt_size_xhdpi">500</integer>
+    <integer name="splash_screen_txt_size_xxhdpi">400</integer>
+    <integer name="splash_screen_txt_size_xxxhdpi">400</integer>
+
+
+    <integer name="version_code_txt_size_hdpi">14</integer>
+    <integer name="version_code_txt_size_xhdpi">14</integer>
+    <integer name="version_code_txt_size_xxhdpi">12</integer>
+    <integer name="version_code_txt_size_xxxhdpi">12</integer>
+
+    
+    <dimen name="alphabet_height_hdpi">530dp</dimen>
+    <dimen name="alphabet_height_xhdpi">450dp</dimen>
+    <dimen name="alphabet_height_xxhdpi">400dp</dimen>
+    <dimen name="alphabet_height_xxxhdpi">390dp</dimen>
+
+
+    <dimen name="my_drawing_height_hdpi">420dp</dimen>
+    <dimen name="my_drawing_height_xhdpi">400dp</dimen>
+    <dimen name="my_drawing_height_xxhdpi">350dp</dimen>
+    <dimen name="my_drawing_height_xxxhdpi">350dp</dimen>
+
+
+    <integer name="draw_menu_txt_size_hdpi">14</integer>
+    <integer name="draw_menu_txt_size_xhdpi">14</integer>
+    <integer name="draw_menu_txt_size_xxhdpi">12</integer>
+    <integer name="draw_menu_txt_size_xxxhdpi">12</integer>
+
+
+    <integer name="alphabet_grid_header_txt_size_hdpi">25</integer>
+    <integer name="alphabet_grid_header_txt_size_xhdpi">25</integer>
+    <integer name="alphabet_grid_header_txt_size_xxhdpi">20</integer>
+    <integer name="alphabet_grid_header_txt_size_xxxhdpi">20</integer>
+
+    <integer name="alphabet_grid_txt_size_hdpi">100</integer>
+    <integer name="alphabet_grid_txt_size_xhdpi">100</integer>
+    <integer name="alphabet_grid_txt_size_xxhdpi">80</integer>
+    <integer name="alphabet_grid_txt_size_xxxhdpi">80</integer>
+
+
+    <integer name="overall_txt_size_hdpi">14</integer>
+    <integer name="overall_txt_size_xhdpi">14</integer>
+    <integer name="overall_txt_size_xxhdpi">12</integer>
+    <integer name="overall_txt_size_xxxhdpi">12</integer>
+
+
+    <integer name="info_txt_size_hdpi">16</integer>
+    <integer name="info_txt_size_xhdpi">16</integer>
+    <integer name="info_txt_size_xxhdpi">14</integer>
+    <integer name="info_txt_size_xxxhdpi">14</integer>
+
+    <integer name="info_odia_txt_size_hdpi">90</integer>
+    <integer name="info_odia_txt_size_xhdpi">90</integer>
+    <integer name="info_odia_txt_size_xxhdpi">70</integer>
+    <integer name="info_odia_txt_size_xxxhdpi">70</integer>
+
+
+    <dimen name="write_layout_width_hdpi">100dp</dimen>
+    <dimen name="learn_layout_width_hdpi">100dp</dimen>
+    <dimen name="history_layout_width_hdpi">100dp</dimen>
+
+
+    <dimen name="write_layout_width_xhdpi">100dp</dimen>
+    <dimen name="learn_layout_width_xhdpi">100dp</dimen>
+    <dimen name="history_layout_width_xhdpi">100dp</dimen>
+
+    <dimen name="write_layout_width_xxhdpi">80dp</dimen>
+    <dimen name="learn_layout_width_xxhdpi">80dp</dimen>
+    <dimen name="history_layout_width_xxhdpi">80dp</dimen>
+
+    <dimen name="write_layout_width_xxxhdpi">80dp</dimen>
+    <dimen name="learn_layout_width_xxxhdpi">80dp</dimen>
+    <dimen name="history_layout_width_xxxhdpi">80dp</dimen>
+
+
+    <dimen name="write_round_width_hdpi">90dp</dimen>
+    <dimen name="write_round_height_hdpi">90dp</dimen>
+
+    <integer name="write_cub_round_width_hdpi">40</integer>
+    <integer name="write_cub_round_height_hdpi">40</integer>
+
+
+    <dimen name="write_round_width_xhdpi">90dp</dimen>
+    <dimen name="write_round_height_xhdpi">90dp</dimen>
+
+    <integer name="write_cub_round_width_xhdpi">40</integer>
+    <integer name="write_cub_round_height_xhdpi">40</integer>
+
+
+    <dimen name="write_round_width_xxhdpi">70dp</dimen>
+    <dimen name="write_round_height_xxhdpi">70dp</dimen>
+
+    <integer name="write_cub_round_width_xxhdpi">20</integer>
+    <integer name="write_cub_round_height_xxhdpi">20</integer>
+
+
+    <dimen name="write_round_width_xxxhdpi">70dp</dimen>
+    <dimen name="write_round_height_xxxhdpi">70dp</dimen>
+
+    <integer name="write_cub_round_width_xxxhdpi">40</integer>
+    <integer name="write_cub_round_height_xxxhdpi">40</integer>
+
+
+    <dimen name="learn_round_width_hdpi">120dp</dimen>
+    <dimen name="learn_round_height_hdpi">120dp</dimen>
+
+    <integer name="learn_cub_round_width_hdpi">200</integer>
+    <integer name="learn_cub_round_height_hdpi">200</integer>
+
+    <dimen name="learn_round_width_xhdpi">120dp</dimen>
+    <dimen name="learn_round_height_xhdpi">120dp</dimen>
+
+    <integer name="learn_cub_round_width_xhdpi">200</integer>
+    <integer name="learn_cub_round_height_xhdpi">200</integer>
+
+    <dimen name="learn_round_width_xxhdpi">70dp</dimen>
+    <dimen name="learn_round_height_xxhdpi">70dp</dimen>
+
+    <integer name="learn_cub_round_width_xxhdpi">120</integer>
+    <integer name="learn_cub_round_height_xxhdpi">120</integer>
+
+    <dimen name="learn_round_width_xxxhdpi">70dp</dimen>
+    <dimen name="learn_round_height_xxxhdpi">70dp</dimen>
+
+    <integer name="learn_cub_round_width_xxxhdpi">120</integer>
+    <integer name="learn_cub_round_height_xxxhdpi">120</integer>
+
+
+
+    <dimen name="history_round_width_hdpi">90dp</dimen>
+    <dimen name="history_round_height_hdpi">90dp</dimen>
+
+    <integer name="history_cub_round_width_hdpi">100</integer>
+    <integer name="history_cub_round_height_hdpi">100</integer>
+
+
+    <dimen name="history_round_width_xhdpi">90dp</dimen>
+    <dimen name="history_round_height_xhdpi">90dp</dimen>
+
+    <integer name="history_cub_round_width_xhdpi">120</integer>
+    <integer name="history_cub_round_height_xhdpi">120</integer>
+
+
+    <dimen name="history_round_width_xxhdpi">70dp</dimen>
+    <dimen name="history_round_height_xxhdpi">70dp</dimen>
+
+    <integer name="history_cub_round_width_xxhdpi">100</integer>
+    <integer name="history_cub_round_height_xxhdpi">100</integer>
+
+
+    <dimen name="history_round_width_xxxhdpi">70dp</dimen>
+    <dimen name="history_round_height_xxxhdpi">70dp</dimen>
+
+    <integer name="history_cub_round_width_xxxhdpi">100</integer>
+    <integer name="history_cub_round_height_xxxhdpi">100</integer>
+
+    
+</resources>

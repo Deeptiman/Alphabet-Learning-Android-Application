@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "127221185767",
+    "firebase_url": "https://odia-alphabet-a8b83.firebaseio.com",
+    "project_id": "odia-alphabet-a8b83",
+    "storage_bucket": "odia-alphabet-a8b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127221185767:android:2f60b800fad50d91",
+        "android_client_info": {
+          "package_name": "com.odia.alphabet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127221185767-betpqrg59t0osb7mid01tb2tnqmnrjcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWLQuM_fMwL7HSsZLHRHlTzqxNn-P6-9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

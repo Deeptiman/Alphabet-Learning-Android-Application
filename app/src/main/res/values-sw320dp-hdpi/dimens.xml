@@ -1,0 +1,39 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_margin">0dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <!--<dimen name="alphabet_height">450dp</dimen>
+
+
+    <dimen name="write_layout_width">100dp</dimen>
+    <dimen name="learn_layout_width">100dp</dimen>
+    <dimen name="history_layout_width">100dp</dimen>
+
+    <dimen name="write_round_width">90dp</dimen>
+    <dimen name="write_round_height">90dp</dimen>
+
+    <integer name="write_cub_round_width">40</integer>
+    <integer name="write_cub_round_height">40</integer>
+
+
+    <dimen name="learn_round_width">120dp</dimen>
+    <dimen name="learn_round_height">120dp</dimen>
+
+    <integer name="learn_cub_round_width">200</integer>
+    <integer name="learn_cub_round_height">200</integer>
+
+
+    <dimen name="history_round_width">90dp</dimen>
+    <dimen name="history_round_height">90dp</dimen>
+
+    <integer name="history_cub_round_width">120</integer>
+    <integer name="history_cub_round_height">120</integer>-->
+
+
+</resources>

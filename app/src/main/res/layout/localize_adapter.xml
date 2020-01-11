@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parent"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true">
+
+    <View
+        android:id="@+id/locale_select"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/solid_circle"/>
+
+    <TextView
+        android:id="@+id/label_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/locale_select"
+        android:layout_alignBaseline="@+id/locale_select"
+        android:layout_marginLeft="20dp"
+        android:text="English"
+        android:textSize="14dp"
+        android:textColor="@color/white"/>
+
+</RelativeLayout>
