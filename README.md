@@ -1,4 +1,4 @@
-# Android Alphabet Learning Application
+# Alphabet Learning Android Application
 
 The application is an Odia letter handwriting practice app. It will be helpful for people to learn Odia letters handwriting. The app has a learning module, which will help to learn and understand the exact writing of an Odia letter. The app will give a rating after finishing each writing session. User can also check the history of their writing, whenever they want.
 
