@@ -20,3 +20,6 @@ The application is an Odia letter learning app. It will be helpful for people to
 
 ### Odia Script Wiki
 https://en.wikipedia.org/wiki/Odia_script
+
+### License
+This project is licensed under the [(MIT License)](https://github.com/Deeptiman/Alphabet-Learning-Android-Application/blob/master/LICENSE)
