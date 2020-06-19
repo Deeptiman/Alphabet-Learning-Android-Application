@@ -1,4 +1,5 @@
 # Alphabet Learning Android Application
+<p>     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Deeptiman/Alphabet-Learning-Android-Application">  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Deeptiman/Alphabet-Learning-Android-Application"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Deeptiman/Alphabet-Learning-Android-Application"></p>
 
 The application is an Odia letter learning app. It will be helpful for people to learn Odia letters writing. The app has a learning module, which will help to learn and understand the exact writing of an Odia letter. The app will give a rating after finishing each writing session. User can also check the history of their writing, whenever they want.
 
