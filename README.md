@@ -9,7 +9,7 @@ The application is an Odia letter learning app. It will be helpful for people to
 
 ### Alphabets
 
-<img src="/release/app-screenshot/export_dashboard.png" width="400" />
+<img src="/release/app-screenshot/export_phone_dashboard.png" width="400" />
 
 ### Learning Board
 
