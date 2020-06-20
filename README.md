@@ -5,7 +5,7 @@ The application is an Odia letter learning app. It will be helpful for people to
 
 ### Application Demo
 
-[![Odia Alphabet (Version 1.0)](https://img.youtube.com/vi/IZtcetrBmAI/0.jpg)](https://www.youtube.com/watch?v=IZtcetrBmAI)
+<a href="https://www.youtube.com/watch?v=IZtcetrBmAI"><img src="/release/export_banner.png" width="600"/></a>
 
 ### Alphabets
 
