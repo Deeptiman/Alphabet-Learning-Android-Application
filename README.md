@@ -9,15 +9,15 @@ The application is an Odia letter learning app. It will be helpful for people to
 
 ### Alphabets
 
-<img src="/release/app-screenshot/dashboard.jpeg" width="400" />
+<img src="/release/app-screenshot/export_dashboard.png" width="400" />
 
 ### Learning Board
 
-<img src="/release/app-screenshot/learning.jpeg" width="400" />
+<img src="/release/app-screenshot/export_learning.png" width="400" />
 
 ### Rating Board
 
-<img src="/release/app-screenshot/drawing.jpeg" width="400" />
+<img src="/release/app-screenshot/export_drawing.png" width="400" />
 
 ### Odia Script Wiki
 https://en.wikipedia.org/wiki/Odia_script
